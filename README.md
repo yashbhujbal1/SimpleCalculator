@@ -1,1 +1,5 @@
 # SimpleCalculator
+## LGM VIRTUAL INTERNSHIP PROGRAM 2021
+## Task-1
+## CREATE A CALCULATOR USING HTML, CSS & JS
+## Created using HTML,CSS and JS.
